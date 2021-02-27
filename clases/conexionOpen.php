@@ -7,6 +7,8 @@
 
 
     $tb1 = "usuarios";
+
+    
     $tb2 = "empleados";
     $conexion = new Mysqli($host,$user,$pass,$DB);
 
